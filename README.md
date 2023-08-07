@@ -1,5 +1,5 @@
 # SMS_Games
-📱 Text-based SMS games.
+📱 Software Concept for Text-based SMS games.
 #
 
 Play text-based games through SMS text messages using a smartphone.
