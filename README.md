@@ -2,8 +2,12 @@
 📱 Software concept for text-based SMS games.
 #
 
+## DESCRIPTION
+
 Play text-based games through SMS text messages using a smartphone.
 
-Game examples include: Tic-tac-toe, chess, hangman, multiple choice and battleship.
+## GAME EXAMPLES
+
+Tic-tac-toe, chess, hangman, multiple choice and battleship.
 
 #
